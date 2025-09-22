@@ -52,4 +52,3 @@ _start:
     movz x16, #0x1
     movk x16, #0x20, lsl #16
     svc #0
-
